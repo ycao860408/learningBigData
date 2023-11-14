@@ -5,4 +5,8 @@ This is a good boy!: second commit
 "This is the update from the apple branch" add the quote by the master branch
 This is the update from the apple branch do not add any thing from apple branch
 
+master insert something new !
+
 That is so interesting from the apple branch
+
+
